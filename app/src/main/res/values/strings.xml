@@ -17,8 +17,8 @@
 
     <string name="async_error">Could not download events from the internet</string>
     <string name="title_activity_basic_avtivity">basicAvtivity</string>
-    <string name="facebook_app_id">402142784491726</string>
-    <string name="fb_login_protocol_scheme">fb366880157860291</string>
+    <string name="facebook_app_id">Your id</string>
+    <string name="fb_login_protocol_scheme">Your key</string>
 
     <string name="hello_user">Hello User</string>
 
